@@ -219,6 +219,6 @@ It reflects practical **Business Intelligence and Data Analytics capabilities**.
 
 ---
 
-# 👨‍💻 Created By
+# 👨‍💻 Developer
 
-**Ritik Sharma**
+**Gagan Diwakar**
